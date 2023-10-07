@@ -1,1 +1,1 @@
-# MariHackathon
+# Course-Schedule-Maker
